@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: "assets/images/panda.jpg"
+
+  android: true
+  ios: true
+  web: true
+  fill: true
